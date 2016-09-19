@@ -9,7 +9,7 @@
 
 name: PrivateVaults
 main: KairusDarkSeeker\PrivateVaults\PrivateVaults
-author: KairusDarkSeeker
+authors: [KairusDarkSeeker, CraftYourBukkit]
 version: 1.0.0
 api: 2.0.0
 
