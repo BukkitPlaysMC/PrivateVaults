@@ -2,7 +2,7 @@
 
 /**
  * 
- * Copyright (C) 2016 KairusDarkSeeker
+ * Copyright (C) 2016 CraftYourBukkit
  * 
  * Licensed under the Apache License, Version 2.0 (the "License");
  * you may not use this file except in compliance with the License.
@@ -16,8 +16,8 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  * 
- * @author KairusDarkSeeker
- * @link https://github.com/KairusDarkSeeker/
+ * @author CraftYourBukkit
+ * @link https://twitter.com/CraftYourBukkit
  *
  */
 
@@ -209,8 +209,8 @@ class PrivateVaults extends PluginBase implements Listener {
 				case "pv":
 					if(!empty($args[0])) {
 						if($args[0] === "about") {
-							$sender->sendMessage("§6PrivateVaults§7>> Made by §bKairus Dark Seeker");
-							$sender->sendMessage("§6PrivateVaults§7>> §bTwitter: @KairusDS");
+							$sender->sendMessage("§6PrivateVaults§7>> Made by §bCraftYourBukkit");
+							$sender->sendMessage("§6PrivateVaults§7>> §bTwitter: @CraftYourBukkit");
 							return true;
 						}
 					}
